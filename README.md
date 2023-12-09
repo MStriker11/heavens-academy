@@ -16,7 +16,7 @@ Dash: RMB \
 Looking around: move mouse \
 Abilities: Q/E/R - holding the key will show an indicator for the ability before casting it \
 View Scoreboard: tab \
-Options menu: ESC \
+Options menu: ESC
 
 # Development
 Features include: player health bar, player UI, global scoreboard, game timer, player respawn upon death, different loadouts/kits, and ability spells/indicators. \
